@@ -1,3 +1,2 @@
-@echo off 
-echo let me open windows media player for you
-start wmplayer.exe
+@echo "launching..."
+C:\Program Files\Windows Media Player\wmplayer.exe
